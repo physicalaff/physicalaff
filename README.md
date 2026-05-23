@@ -37,7 +37,7 @@ I am currently a high school student and a passionate **Junior Programmer**. Pro
 ### 📂 Featured Projects
 
 <a href="https://github.com/physicalaff/Knight-Chess-Helper">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=physicalaff&repo=Knight-Chess-Helper&theme=midnight" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=physicalaff&repo=Knight-Chess-Helper&theme=dark" />
 </a>
 
 ---
@@ -45,6 +45,6 @@ I am currently a high school student and a passionate **Junior Programmer**. Pro
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=physicalaff&show_icons=true&theme=midnight&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=physicalaff&layout=compact&theme=midnight" alt="Top Languages" width="48%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=physicalaff&show_icons=true&theme=dark&rank_icon=github&height=195" alt="GitHub Stats" width="48%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=physicalaff&layout=compact&theme=dark&height=195" alt="Top Languages" width="48%" />
 </p>
