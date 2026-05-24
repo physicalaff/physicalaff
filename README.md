@@ -35,10 +35,13 @@ I am currently a high school student and a passionate **Junior Programmer**. Pro
 ---
 
 ### 📂 Featured Projects
-
-<a href="https://github.com/physicalaff/Knight-Chess-Helper">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=physicalaff&repo=Knight-Chess-Helper&theme=dark" />
-</a>
+<p align="center">
+  <a href="https://github.com/physicalaff/Knight-Chess-Helper">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=physicalaff&repo=Knight-Chess-Helper&theme=dark" width="49%" />
+  </a>
+  <a href="https://github.com/physicalaff/taskflow">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=physicalaff&repo=taskflow&theme=dark" width="49%" />
+  </a>
 
 ---
 
