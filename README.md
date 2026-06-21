@@ -42,6 +42,9 @@ I am currently a high school student and a passionate **Junior Programmer**. Pro
   <a href="https://github.com/physicalaff/taskflow">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=physicalaff&repo=taskflow&theme=dark" width="49%" />
   </a>
+  <a href="https://github.com/physicalaff/physicalaff.github.io">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=physicalaff&repo=physicalaff&theme=dark" width="49%" />
+  </a>
 
 ---
 
